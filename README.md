@@ -1,1 +1,1 @@
-# Inventory_Management_System-Using-php
+# Inventory_Management_System
